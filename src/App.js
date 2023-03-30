@@ -1,3 +1,4 @@
+import Lineup from './Lineup';
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Lineup></Lineup>
     </div>
   );
 }
